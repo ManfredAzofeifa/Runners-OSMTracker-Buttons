@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layouts>
+    <layout name="root">
+        <row>
+            <button type="tag" label="Grifo de agua" (icon="grifo.png") />
+            <button type="tag" label="Pista de atletismo" (icon="pista.png") />
+            <button type="tag" label="Semáforos" (icon="semaforo.png") />
+            <button type="tag" label="Paso peatonal" (icon="señal.png") />
+       </row>
+     </layout>
+ </layouts>
+
