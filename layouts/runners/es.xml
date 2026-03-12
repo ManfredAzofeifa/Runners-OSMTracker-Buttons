@@ -2,12 +2,12 @@
 <layouts>
     <layout name="root">
         <row>
-            <button type="tag" label="Pistas"/>
-            <button type="tag" label="Tubos de agua"/>
-            <button type="tag" label="Semaforos"/>
+            <button type="tag" label="Pistas" icon="runners_icons/pista.png"/>
+            <button type="tag" label="Tubos de agua" icon="runners_icons/grifo.png"/>
+            <button type="tag" label="Semaforos" icon="runners_icons/semaforo.png"/>
         </row>
         <row>
-            <button type="tag" label="Pasos Peatonales"/>
+            <button type="tag" label="Pasos Peatonales" icon="runners_icons/señal.png"/>
         </row>
     </layout>
 </layouts>
